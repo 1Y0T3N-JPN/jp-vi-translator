@@ -1,0 +1,21 @@
+{
+  "name": "JP-VN 翻訳チャット",
+  "short_name": "JP-VN翻訳",
+  "description": "日本語とベトナム語の日常会話に特化したAI翻訳チャット",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
